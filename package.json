@@ -15,8 +15,10 @@
     "extends": "prettier"
   },
   "dependencies": {
+    "got": "^7.1.0",
     "micro": "latest",
-    "node-summary": "^1.2.0",
+    "micro-compress": "^1.0.0",
+    "node-summary": "1.1.0",
     "summarize": "^1.5.0",
     "unfluff": "^1.1.0"
   },
